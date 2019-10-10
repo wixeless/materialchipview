@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.MaterialChip" parent="@android:style/Widget.Material">
+        <item name="android:letterSpacing">@dimen/tag_letter_spacing</item>
+        <item name="android:padding">@dimen/spacing_small</item>
+        <item name="android:strokeColor">?android:textColorSecondary</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:colorPrimary">?android:colorPrimary</item>
+        <item name="android:color">?android:colorPrimary</item>
+        <item name="outlineWidth">1dp</item>
+        <item name="clearIcon">@drawable/tag_clear</item>
+        <item name="foreground">?selectableItemBackground</item>
+        <item name="showIcons">true</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="checkedTextColor">?android:textColorPrimary</item>
+    </style>
+</resources>
