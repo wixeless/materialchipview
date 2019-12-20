@@ -21,7 +21,7 @@ allprojects {
 Add the dependency to your lib/app `build.gradle`  
 ```gradle
 dependencies {
-     implementation 'com.github.jahongir28:materialchipview:1.0.0'
+     implementation 'com.github.jahongir28:materialchipview:1.0.1'
 }
 ```
 
